@@ -11,6 +11,7 @@ Awesome List of Web Bluetooth Libraries, Demos and Resources
 * [muse-js](https://github.com/urish/muse-js) - Connect to Muse EEG Headset
 * [Web Bluetooth Typings](https://www.npmjs.com/package/@types/web-bluetooth) - for TypeScript
 * [web-bluetooth-mock](https://www.npmjs.com/package/web-bluetooth-mock) - Web Bluetooth Mock for Unit Testing
+* [ganglion-ble](https://www.npmjs.com/package/ganglion-ble) - Client for the Ganglion EEG board by OpenBCI
 
 ## Apps & Code Samples
 
