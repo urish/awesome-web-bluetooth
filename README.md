@@ -20,8 +20,8 @@ Awesome List of Web Bluetooth Libraries, Demos and Resources
 
 * [Interact with Bluetooth devices on the Web](https://developers.google.com/web/updates/2015/07/interact-with-ble-devices-on-the-web)
 * [Start building with Web Bluetooth and Progressive Web Apps](https://medium.com/@urish/start-building-with-web-bluetooth-and-progressive-web-apps-6534835959a6)
-* [https://medium.com/@urish/is-now-a-good-time-to-start-using-web-bluetooth-hint-yes-yes-it-is-99e998d7b9f6](Is Now a Good Time to Start using Web Bluetooth? (Hint: Yes, yes it is.))
-* [https://medium.com/@urish/reactive-brain-waves-af07864bb7d4](Reactive Brain Waves)
+* [Is Now a Good Time to Start using Web Bluetooth? (Hint: Yes, yes it is.)](https://medium.com/@urish/is-now-a-good-time-to-start-using-web-bluetooth-hint-yes-yes-it-is-99e998d7b9f6)
+* [Reactive Brain Waves](https://medium.com/@urish/reactive-brain-waves-af07864bb7d4)
 
 ## Tech Talks (English Only)
 
