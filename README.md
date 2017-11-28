@@ -19,6 +19,7 @@ Awesome List of Web Bluetooth Libraries, Demos and Resources
 
 * [Espruino WEB IDE](https://espruino.com/ide/)
 * [Web Bluetooth Terminal](https://github.com/1oginov/Web-Bluetooth-Terminal)
+* [Nordic Thingy:52 Web App](https://developer.nordicsemi.com/thingy/52/)
 
 ## Tutorials / Blog posts
 
