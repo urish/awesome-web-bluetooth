@@ -13,6 +13,7 @@ Awesome List of Web Bluetooth Libraries, Demos and Resources
 * [web-bluetooth-mock](https://www.npmjs.com/package/web-bluetooth-mock) - Web Bluetooth Mock for Unit Testing
 * [ganglion-ble](https://www.npmjs.com/package/ganglion-ble) - Client for the Ganglion EEG board by OpenBCI
 * [raunch](https://www.npmjs.com/package/raunch) - Library for controlling the Fleshlight Launch Sex Toy
+* [magicblue](https://www.npmjs.com/package/magicblue) - Control Magic Blue smart LED bulb
 
 ## Apps & Code Samples
 
