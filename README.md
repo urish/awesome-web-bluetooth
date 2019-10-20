@@ -14,6 +14,7 @@ Awesome List of Web Bluetooth Libraries, Demos and Resources
 * [ganglion-ble](https://www.npmjs.com/package/ganglion-ble) - Client for the Ganglion EEG board by OpenBCI
 * [raunch](https://www.npmjs.com/package/raunch) - Library for controlling the Fleshlight Launch Sex Toy
 * [magicblue](https://www.npmjs.com/package/magicblue) - Control Magic Blue smart LED bulb
+* [p5.ble.js](https://itpnyu.github.io/p5ble-website/) - Plug-in library for Web Bluetooth in [p5.js](https://p5js.org/).
 
 ## Apps & Code Samples
 
