@@ -18,6 +18,8 @@ Awesome List of Web Bluetooth Libraries, Demos and Resources
 
 ## Apps & Code Samples
 
+* [MakeCode](https://www.microsoft.com/en-us/makecode) - Computer Science Education development environment used with multiple devices
+  * [Wonder Cue Robot IDE](https://code.makewonder.com/cue)
 * [Espruino WEB IDE](https://espruino.com/ide/)
 * [Web Bluetooth Terminal](https://github.com/1oginov/Web-Bluetooth-Terminal)
 * [Nordic Thingy:52 Web App](https://developer.nordicsemi.com/thingy/52/)
