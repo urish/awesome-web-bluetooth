@@ -24,6 +24,7 @@ Awesome List of Web Bluetooth Libraries, Demos and Resources
 * [Web Bluetooth Terminal](https://github.com/1oginov/Web-Bluetooth-Terminal)
 * [Nordic Thingy:52 Web App](https://developer.nordicsemi.com/thingy/52/)
 * [Ergometer Space](https://ergometer-space.org/)
+* [Wavecake](https://app.getwavecake.com/webdevice) - IDE for sandboxing Web Bluetooth scripts
 
 ## Tutorials / Blog posts
 
