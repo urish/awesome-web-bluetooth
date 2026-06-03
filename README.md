@@ -15,6 +15,7 @@ Awesome List of Web Bluetooth Libraries, Demos and Resources
 * [raunch](https://www.npmjs.com/package/raunch) - Library for controlling the Fleshlight Launch Sex Toy
 * [magicblue](https://www.npmjs.com/package/magicblue) - Control Magic Blue smart LED bulb
 * [p5.ble.js](https://itpnyu.github.io/p5ble-website/) - Plug-in library for Web Bluetooth in [p5.js](https://p5js.org/).
+* [iOSWebBLE](https://ioswebble.com) - Use Web Bluetooth in Safari on iOS, via a Safari extension that implements navigator.bluetooth. ([npm](https://www.npmjs.com/package/@ios-web-bluetooth/core))
 
 ## Apps & Code Samples
 
