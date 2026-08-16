@@ -17,6 +17,7 @@ Awesome List of Web Bluetooth Libraries, Demos and Resources
 * [p5.ble.js](https://itpnyu.github.io/p5ble-website/) - Plug-in library for Web Bluetooth in [p5.js](https://p5js.org/).
 * [iOSWebBLE](https://ioswebble.com) - Use Web Bluetooth in Safari on iOS, via a Safari extension that implements navigator.bluetooth. ([npm](https://www.npmjs.com/package/@ios-web-bluetooth/core))
 * [@0xsarwagya/agnostic-web-ble](https://oss.sarwagya.wtf/agnostic-web-ble) — Browser-agnostic Web Bluetooth wrapper with a small, honest surface.
+* [niimbot-web-bluetooth](https://github.com/iscarelli/niimbot-web-bluetooth) - Zero-dependency driver for Niimbot thermal label printers, with reverse-engineered protocol docs
 
 ## Apps & Code Samples
 
