@@ -29,6 +29,7 @@ Awesome List of Web Bluetooth Libraries, Demos and Resources
 * [Ergometer Space](https://ergometer-space.org/)
 * [Wavecake](https://app.getwavecake.com/webdevice) - IDE for sandboxing Web Bluetooth scripts
 * [Tour du Pain](https://tourdupain.app/?ref=awesome-web-bluetooth) - Browser indoor cycling game that connects to smart trainers over Web Bluetooth (FTMS)
+* [Croissant Ride](https://croissantride.com) - Minimal open-source indoor cycling app: controls FTMS smart trainers and heart-rate straps over Web Bluetooth ([source](https://github.com/Arthurpfz/croissant-ride))
 
 ## Tutorials / Blog posts
 
