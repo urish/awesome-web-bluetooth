@@ -31,6 +31,7 @@ Awesome List of Web Bluetooth Libraries, Demos and Resources
 * [Tour du Pain](https://tourdupain.app/?ref=awesome-web-bluetooth) - Browser indoor cycling game that connects to smart trainers over Web Bluetooth (FTMS)
 * [Croissant Ride](https://croissantride.com) - Minimal open-source indoor cycling app: controls FTMS smart trainers and heart-rate straps over Web Bluetooth ([source](https://github.com/Arthurpfz/croissant-ride))
 * [VeloWorkout](https://veloworkout.com/) - Structured indoor cycling training plans, ERG workouts and power analytics; connects to smart trainers over Web Bluetooth (FTMS)
+* [PedalCraft](https://pedalcraft.online/ride/) - Indoor cycling app with virtual shifting: connects smart trainers and Zwift Click, Play and Ride controllers over Web Bluetooth (free rides up to 30 minutes, paid Pro version)
 
 ## Tutorials / Blog posts
 
